@@ -26,6 +26,8 @@
 8. [Section 10 – Scheduled prompt pack](#section-10--scheduled-prompt-pack)
 9. [Pack contents](#pack-contents)
 
+<img width="1536" height="1024" alt="ms-4019-project-nexus-use-case" src="https://github.com/user-attachments/assets/20cd12ba-3c9e-4465-80b8-efb65322300a" />
+
 ---
 
 ## Why this story
